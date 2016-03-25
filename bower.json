@@ -1,0 +1,17 @@
+{
+  "name": "DummyApp",
+  "private": true,
+  "version": "0.0.1",
+  "main": "styles/site.css",
+  "ignore": [
+    "wwwroot",
+    "appsetings.json",
+    ".bower.json",
+    ".Dockerfile",
+    ".gulpfile.js",
+    "package.json",
+    "project.json",
+    "README.md",
+    "Startup.cs"
+  ]
+}
