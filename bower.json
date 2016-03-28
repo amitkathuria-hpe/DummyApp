@@ -1,6 +1,5 @@
 {
   "name": "DummyApp",
-  "private": true,
   "version": "0.0.1",
   "main": "styles/site.css",
   "ignore": [
